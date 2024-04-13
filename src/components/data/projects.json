@@ -1,0 +1,45 @@
+[
+  {
+    "key": 1,
+    "title": "AWS-Route53-DashBoard",
+    "imageSrc": "Dns.png",
+    "description": "A web application to provide a central dashboard for automating management of domains and DNS records in bulk on AWS Route 53. Tech Stack: React.js , Node.js , AWS Route53 , TypeScript",
+    "demo": "https://aws-route53-dashboard.vercel.app/",
+    "source": "https://github.com/tushar0807/aws-route53-dashboard"
+  },
+  {
+    "key": 2,
+    "title": "Code-Colab",
+    "imageSrc": "CodeColab.png",
+    "description": "Real-time Code Editor where multiple users can work on same code in real-time. Tech Stack: ReactJs , WebSocket , GraphQl , MongoDb, Node.js ",
+    "demo": "http://165.22.213.109:3000/",
+    "source": "https://github.com/tushar0807/Code-Colab"
+  },
+  {
+    "key": 3,
+    "title": "SpendWise",
+    "imageSrc": "Register.png",
+    "description": "A Web App to manage Cashflow. Tools & Tech Used: NodeJS , Express , MongoDB , JavaScript , ReactJs",
+    "source": "https://github.com/tushar0807/Spend_Wise"
+  },
+  {
+    "key": 4,
+    "title": "ToDO Mobile App",
+    "imageSrc": "ToDo.jpeg",
+    "description": "A Mobile App to manage your Todos efficiently. Tech Stack: React Native , Expo , Expo SQLite , Material Icons",
+    "source": "https://github.com/tushar0807/todo-list-app"
+  },
+  {
+    "key": 5,
+    "title": "Realtime Chat App",
+    "imageSrc": "chat.png",
+    "description": "Developed a real-time chat website using Socket.io , allowing users to communicate in real-time without page refresh. Tech Used: : NodeJs , Socket.io , Express , ReactJs",
+    "source": "https://github.com/tushar0807/Realtime_ChatApp"
+  },
+  {
+    "key": 6,
+    "title": "Speech Emotion Recognition",
+    "imageSrc": "Emotion.png",
+    "description": "Emotion speech recognition is the task of automatically detecting and classifying the emotions.A Convolution Neural Network based model with an accuracy of about 93%. Tools & Tech used : Python , Librosa , FastAI , Numpy , Matplotlib"
+  }
+]
