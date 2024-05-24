@@ -29,10 +29,10 @@ const Projects = () => {
                   <div className="card-body text-center ">
                     <h5 className="card-title">{data.title}</h5>
                     <p className="card-text">{data.description}</p>
-                    {data.demo && (<a href={data.demo} className="btn btn-primary mx-3">
+                    {data.demo && (<a href={data.demo} target="_blank" rel="noopener noreferrer" className="btn btn-primary mx-3">
                       Link
                     </a>)}
-                    {data.source && (<a href={data.source} className="btn btn-warning">
+                    {data.source && (<a href={data.source} target="_blank" rel="noopener noreferrer" className="btn btn-warning">
                       GitHub
                     </a>)}
                   </div>
